@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.523f09c5.chunk.css",
-    "main.js": "/static/js/main.61c26245.chunk.js",
-    "main.js.map": "/static/js/main.61c26245.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5328d758.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5328d758.js.map",
-    "static/css/2.47271137.chunk.css": "/static/css/2.47271137.chunk.css",
-    "static/js/2.80ad573c.chunk.js": "/static/js/2.80ad573c.chunk.js",
-    "static/js/2.80ad573c.chunk.js.map": "/static/js/2.80ad573c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.970fb639f9a8f9af8204e7619dad5d42.js": "/precache-manifest.970fb639f9a8f9af8204e7619dad5d42.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.47271137.chunk.css.map": "/static/css/2.47271137.chunk.css.map",
-    "static/css/main.523f09c5.chunk.css.map": "/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.80ad573c.chunk.js.LICENSE.txt": "/static/js/2.80ad573c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "./static/css/main.523f09c5.chunk.css",
+    "main.js": "./static/js/main.a0f60ce4.chunk.js",
+    "main.js.map": "./static/js/main.a0f60ce4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3cf64776.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3cf64776.js.map",
+    "static/css/2.43a1c8b7.chunk.css": "./static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.80ad573c.chunk.js": "./static/js/2.80ad573c.chunk.js",
+    "static/js/2.80ad573c.chunk.js.map": "./static/js/2.80ad573c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4baff7a148519ef9a0ce8cc6f1e9085a.js": "./precache-manifest.4baff7a148519ef9a0ce8cc6f1e9085a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.43a1c8b7.chunk.css.map": "./static/css/2.43a1c8b7.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "./static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.80ad573c.chunk.js.LICENSE.txt": "./static/js/2.80ad573c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "./static/media/logo.ee7cd8ed.svg",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.5328d758.js",
-    "static/css/2.47271137.chunk.css",
+    "static/js/runtime-main.3cf64776.js",
+    "static/css/2.43a1c8b7.chunk.css",
     "static/js/2.80ad573c.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.61c26245.chunk.js"
+    "static/js/main.a0f60ce4.chunk.js"
   ]
 }
